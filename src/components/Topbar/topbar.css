@@ -13,10 +13,12 @@
 }
 
 .logoImage{
-  width: 44px;
-  height: 44px;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  object-fit: cover;
   margin-left: 20px;   
-  cursor: pointer;
+  cursor: pointer;  
 }
 
 .topbarCenter{
